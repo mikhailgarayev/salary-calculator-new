@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[60682,["/_next/static/chunks/0d21n0vhs4zns.js","/_next/static/chunks/03297b87bktq~.js"],"SalaryCalculator"]
-3:I[40599,["/_next/static/chunks/0d21n0vhs4zns.js"],"OutletBoundary"]
+2:I[60682,["/salary-calculator-new/_next/static/chunks/0d21n0vhs4zns.js","/salary-calculator-new/_next/static/chunks/03297b87bktq~.js"],"SalaryCalculator"]
+3:I[40599,["/salary-calculator-new/_next/static/chunks/0d21n0vhs4zns.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-svh bg-background","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/03297b87bktq~.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0XUAzoG77AW22WCWE844d"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-svh bg-background","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/salary-calculator-new/_next/static/chunks/03297b87bktq~.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1nxdmHZxf7qmrF2X7Uxfi"}
 5:null
